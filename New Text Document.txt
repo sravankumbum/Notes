@@ -1,0 +1,251 @@
+Below is a **clean, interview-oriented DevOps topic checklist**.
+If you learn **ONLY these topics**, you are **employable**. No fluff.
+
+Use this as a **tracking list** — tick items as you finish them.
+
+Linux + Git + Networking
+
+Shell & Python
+
+CI/CD pipelines
+
+Docker → Kubernetes
+
+Cloud (AWS/Azure/GCP)
+
+Terraform + Monitoring
+
+Security & Optimization
+
+---
+
+# ✅ DEVOPS TOPICS CHECKLIST (JOB-ORIENTED)
+
+---
+
+## 1️⃣ Linux & OS Fundamentals (NON-NEGOTIABLE)
+
+* Linux file system
+* Users, groups, permissions
+* Process management (`ps`, `top`, `kill`)
+* Memory & CPU basics
+* Disk & inode usage
+* System logs (`/var/log`)
+* Package management (`apt`, `yum`)
+* Crontab & scheduling
+* Shell scripting (Bash)
+
+---
+
+## 2️⃣ Networking Basics (INTERVIEW FAVORITE)
+
+* TCP vs UDP
+* DNS working
+* HTTP vs HTTPS
+* Load balancing concepts
+* Reverse proxy
+* Ports & firewalls
+* NAT & routing
+* SSH & key-based access
+* TLS / SSL basics
+
+---
+
+## 3️⃣ Git & Version Control
+
+* Git workflow
+* Branching strategies
+* Merge vs rebase
+* Pull requests
+* Git tags
+* GitHub / GitLab basics
+* Handling merge conflicts
+
+---
+
+## 4️⃣ CI/CD (CORE DEVOPS SKILL)
+
+* CI vs CD
+* Pipeline stages
+* Jenkins architecture
+* Jenkinsfile
+* GitHub Actions workflows
+* Webhooks
+* Artifact management
+* Rollback strategies
+
+![Image](https://learn.microsoft.com/en-us/azure/devops/pipelines/architectures/media/azure-devops-ci-cd-architecture.svg?view=azure-devops)
+
+![Image](https://www.jenkins.io/images/pipeline/jenkins-workflow.png)
+
+![Image](https://docs.github.com/assets/cb-63715/images/help/actions/workflow-graph.png)
+
+---
+
+## 5️⃣ Containers – Docker (MANDATORY)
+
+* What is containerization
+* Docker architecture
+* Dockerfile
+* Multi-stage builds
+* Images vs containers
+* Docker volumes
+* Docker networking
+* Docker Compose
+* Container registries (Docker Hub, ECR)
+
+![Image](https://www.docker.com/app/uploads/2021/11/docker-containerized-and-vm-transparent-bg.png)
+
+![Image](https://devopscube.com/content/images/2025/03/docker-build-workflow-1.png)
+
+![Image](https://www.alsacreations.com/xmedia/doc/original/1636913240-docker-compose-archi.png)
+
+---
+
+## 6️⃣ Kubernetes (HIGH DEMAND)
+
+* Kubernetes architecture
+* Pods
+* Deployments
+* Services (ClusterIP, NodePort, LoadBalancer)
+* ConfigMaps & Secrets
+* Ingress
+* Rolling updates
+* Scaling
+* Health checks
+* Basic troubleshooting
+
+![Image](https://kubernetes.io/images/docs/kubernetes-cluster-architecture.svg)
+
+![Image](https://iximiuz.com/kubernetes-vs-age-old-infra-patterns/kubernetes-service-min.png)
+
+![Image](https://kubernetes-sigs.github.io/aws-load-balancer-controller/v1.1/imgs/controller-design.png)
+
+---
+
+## 7️⃣ Cloud – AWS (YOU ALREADY STARTED)
+
+* IAM (users, roles, policies)
+* EC2
+* AMI
+* VPC
+* Subnets
+* Route tables
+* Internet & NAT gateways
+* Security Groups & NACLs
+* Load Balancer (ALB)
+* Auto Scaling
+* S3
+* CloudWatch
+
+---
+
+## 8️⃣ Infrastructure as Code (IaC)
+
+* What is IaC
+* Terraform architecture
+* Providers
+* Resources
+* Variables
+* State file
+* Remote backend
+* Terraform plan/apply
+* Terraform destroy
+* Modules (basic)
+
+![Image](https://cms.cloudoptimo.com/uploads/terraform_eaa800441c.png)
+
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2Ael-spbCECAOdp06Iiun-ug.png)
+
+---
+
+## 9️⃣ Configuration Management
+
+* Configuration vs provisioning
+* Ansible architecture
+* Inventory
+* Playbooks
+* Roles
+* Idempotency
+* SSH-based automation
+
+---
+
+## 🔟 Monitoring & Logging
+
+* Why monitoring is needed
+* Metrics vs logs
+* Prometheus basics
+* Grafana dashboards
+* Alerts
+* AWS CloudWatch
+* Log rotation
+* Incident response basics
+
+---
+
+## 1️⃣1️⃣ Security & DevSecOps (BASIC LEVEL)
+
+* Secrets management
+* IAM best practices
+* Least privilege principle
+* Container security basics
+* Vulnerability scanning
+* HTTPS & certificates
+* Security in CI/CD
+
+---
+
+## 1️⃣2️⃣ Scripting & Automation
+
+* Bash scripting
+* Python basics
+* Automate:
+
+  * Backups
+  * Health checks
+  * Log cleanup
+  * Deployment steps
+
+---
+
+## 1️⃣3️⃣ DevOps Projects (CRITICAL)
+
+* CI/CD pipeline → Docker → AWS EC2
+* Kubernetes deployment on AWS
+* Terraform infra creation
+* Monitoring setup
+* Rollback & failure simulation
+
+---
+
+# 🎯 MINIMUM SKILL SET FOR JOB
+
+If you can confidently explain:
+
+* Linux + Networking
+* Docker + CI/CD
+* AWS + Terraform
+* Kubernetes basics
+
+👉 **You are employable**
+
+---
+
+# 🧠 How to Study (IMPORTANT)
+
+* Learn topic → build mini project
+* No notes without hands-on
+* GitHub README > certificates
+* Always relate answers to **production incidents**
+
+---
+
+## NEXT STEP
+
+If you want, I can:
+1️⃣ Convert this into a **90-day checklist**
+2️⃣ Map topics to **interview questions**
+3️⃣ Design **3 projects** exactly matching job descriptions
+
+Just reply **1, 2, or 3** 🚀
